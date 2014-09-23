@@ -1,5 +1,4 @@
 ---
-title: Miëtek Bak
 header-class: dark
 body-class: index
 ---
