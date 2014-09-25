@@ -1,6 +1,5 @@
 ---
 title: Functional programmer
-header-class: dark
 body-class: index
 ---
 
