@@ -13,6 +13,6 @@ Founder at [Least Fixed.](http://leastfixed.com/)
 
 <script>
 addEventListener('load', function () {
-  document.getElementById('hello').href = magic.rot13('znvygb:uryyb@zvrgrx.vb');
+  document.getElementById('hello').href = cannot.rot13('znvygb:uryyb@zvrgrx.vb');
 });
 </script>
