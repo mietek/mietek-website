@@ -1,5 +1,5 @@
-mietek-website
-==============
+mietek.github.io
+================
 
 [My](http://mietek.io/) website.
 
