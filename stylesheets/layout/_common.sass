@@ -5,6 +5,12 @@ body
 nav h1
   font-weight: bold
 
+header nav h1 a
+  color: $gray6
+
+footer nav h1 a
+  color: $gray9
+
 
 .index header
   background-color: rgba(white, 0.8)
@@ -13,7 +19,7 @@ nav h1
   position: relative
 
 .index main:before
-  @include image(hands, svg)
+  @include image(hands-gray9, svg)
   background-position: center bottom
   background-size: 100% auto
   position: absolute
