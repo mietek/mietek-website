@@ -1,6 +1,6 @@
 ---
 title: Functional programmer
-body-class: index
+html-class: index
 ---
 
 

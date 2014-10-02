@@ -1,15 +1,19 @@
 body
-  font-family: "futura-ligh", sans-serif
+  font-family: "futura-book", sans-serif
 
 h1
-  font-family: "futura-medi", sans-serif
+  font-family: "futura-bold", sans-serif
 
 
-header nav h1 a
+header nav.menu-bar h1.logotype a
   color: $gray6
+  @include frob-when-frobbed
+    color: $accent-color
 
-footer nav h1 a
+footer nav.menu-bar h1.logotype a
   color: $gray9
+  @include frob-when-frobbed
+    color: $accent-color
 
 
 .index header
