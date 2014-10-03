@@ -4,7 +4,7 @@ html-class: index
 ---
 
 
-# Functional programmer.
+# Functional programmer
 
 Founder at [Least Fixed](http://leastfixed.com/).
 
