@@ -35,7 +35,10 @@ footer nav.menu-bar h1.logotype a
   justify-content: flex-end
 
 .index main:before
-  @include image(hands-grayC, svg)
+  $format: svg
+  @if $mode == pub
+    $format: "svg.gz"
+  background-image: image-url(hands-grayC, 1x, $format)
   background-position: center center
   background-size: 100% auto
   background-repeat: no-repeat
