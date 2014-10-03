@@ -1,16 +1,19 @@
 body
-  font-family: "futura-book", sans-serif
-
-h1
-  font-family: "futura-bold", sans-serif
+  font-family: "Helvetica Neue", Helvetica, sans-serif
+  font-weight: 200
 
 
 header nav.menu-bar h1.logotype a
+  font-weight: 500
   color: $gray6
   @include frob-when-frobbed
     color: $accent-color
 
+section.level1 h1
+  font-weight: 500
+
 footer nav.menu-bar h1.logotype a
+  font-weight: 500
   color: $gray9
   @include frob-when-frobbed
     color: $accent-color
@@ -20,7 +23,7 @@ footer nav.menu-bar h1.logotype a
   background-image: linear-gradient(to right, white 0%, rgba(white, 0.0) 100%)
 
 .index main
-  padding-bottom: ln(2)
+  padding-bottom: ln(4)
   display: flex
   flex-direction: column
   justify-content: flex-end

@@ -6,9 +6,9 @@ html-class: index
 
 # Functional programmer.
 
-Founder at [Least Fixed.](http://leastfixed.com/)
+Founder at [Least Fixed](http://leastfixed.com/).
 
-<a href="" id="hello">Say hello.</a>
+Say <a href="" id="hello">hello</a>.
 
 
 <script>
