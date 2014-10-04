@@ -3,23 +3,25 @@ mietek-website
 
 [My](http://mietek.io/) website.
 
-Built with [Cannot](https://github.com/mietek/cannot/).
+Built with [cannot](https://github.com/mietek/cannot/).
 
 
 Usage
 -----
+
+Not intended for public use.
 
 Do you need a website?  Say hello@mietek.io
 
 
 ### Installation
 
+Available as a [Bower](http://bower.io/) package.
+
 ```sh
 bower install mietek-website
 make
 ```
-
-Requires [Bower](http://bower.io/) and everything [Cannot](https://github.com/mietek/cannot/) needs.
 
 
 License
