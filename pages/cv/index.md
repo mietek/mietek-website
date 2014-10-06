@@ -26,42 +26,57 @@ Current projects
 ----------------
 
 ### [Halcyon](http://halcyon.sh/)
-Rapid Haskell deployment.
+Rapid Haskell deployment
 
 ### [Haskell on Heroku](http://haskellonheroku.com/)
-Rapid deployment of Haskell web apps.
+Rapid deployment of Haskell web apps
+
+### [bashmenot](https://github.com/mietek/bashmenot/)
+Library of functions for safer shell scripting
+
+### [cannot](https://github.com/mietek/cannot/)
+Microframework for building websites
 
 
-Experience
+Experience { .exp }
 ----------
 
-### Founder, [Least Fixed](http://leastfixed.com/)
-> 2013–present
+### [Least Fixed](http://leastfixed.com/)
+_Founder_\
+2013–present
 
-### Lead software engineer, Citrix
-> 2012
+### Citrix
+_Lead software engineer_\
+2012
 
-### Systems engineer, Arctic Lake
-> 2011–2012
+### Arctic Lake
+_Systems engineer_\
+2011–2012
 
-### Software developer, OpenBet
-> 2011
+### OpenBet
+_Software developer_\
+2011
 
-### Systems engineer, Erlang Solutions
-> 2008–2010
+### Erlang Solutions
+_Systems engineer_\
+2008–2010
 
-### Student, Google Summer of Code/Haskell
-> 2007
+### Google Summer of Code/Haskell
+_Student_\
+2007
 
-### Student programmer, Cortland
-> 2002–2006
+### Cortland
+_Student programmer_\
+2002–2006
 
-### Associate developer, Haxial
-> 2001–2005
+### Haxial
+_Associate developer_\
+2001–2005
 
 
-Education
+Education { .exp }
 ---------
 
-### BSc, Informatics, University of Wrocław
-> 2004–2009
+### University of Wrocław
+_BSc/Informatics_\
+2004–2009
