@@ -1,7 +1,7 @@
 ---
 title: CV
 html-class: cv
-footer-bonus: |
+page-footer: |
   <script>
     addEventListener('load', function () {
       document.getElementById('hello').href = cannot.rot13('znvygb:uryyb@zvrgrx.vb');

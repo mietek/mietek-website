@@ -1,7 +1,7 @@
 ---
 title: Functional programmer
 html-class: index
-footer-bonus: |
+page-footer: |
   <script>
     addEventListener('load', function () {
       document.getElementById('hello').href = cannot.rot13('znvygb:uryyb@zvrgrx.vb');
