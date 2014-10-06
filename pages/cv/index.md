@@ -1,6 +1,9 @@
 ---
 title: CV
-html-class: cv
+page-class: cv add-section-links
+page-data:
+  - key: max-section-link-level
+    value: 2
 page-footer: |
   <script>
     addEventListener('load', function () {
