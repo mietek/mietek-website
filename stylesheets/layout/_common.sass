@@ -5,7 +5,7 @@ body
 
 header nav.menu-bar h1.logotype a
   font-weight: 500
-  color: $gray6
+  color: $object-color
   @include frob-when-frobbed
     color: $accent-color
 
@@ -15,12 +15,12 @@ section.level1
   padding-top: ln(1)
   padding-bottom: ln(3)
 
-section.level1 h1
+section h1
   font-weight: 500
 
 footer nav.menu-bar h1.logotype a
   font-weight: 500
-  color: $gray9
+  color: $subject-color
   @include frob-when-frobbed
     color: $accent-color
 
@@ -38,7 +38,7 @@ footer nav.menu-bar h1.logotype a
   $format: svg
   @if $mode == pub
     $format: "svg.gz"
-  background-image: image-url(hands-grayC, 1x, $format)
+  background-image: image-url(hands-#{$subject-color-name}, 1x, $format)
   background-position: center center
   background-size: 100% auto
   background-repeat: no-repeat
