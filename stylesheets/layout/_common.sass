@@ -3,17 +3,15 @@ body
   font-weight: 200
 
 
+ul.menu
+  display: inline !important
+
+
 header nav.menu-bar h1.logotype a
   font-weight: 500
   color: $object-color
   @include frob-when-frobbed
     color: $accent-color
-
-section.level1
-  @include rule-before($accent-color)
-  background: rgba(white, 0.8)
-  padding-top: ln(1)
-  padding-bottom: ln(3)
 
 section h1
   font-weight: 500
@@ -49,3 +47,29 @@ footer nav.menu-bar h1.logotype a
   right: 0
   z-index: -1
   content: ""
+
+.index section.level1
+  @include rule-before($accent-color)
+  background: rgba(white, 0.8)
+  padding-top: ln(1)
+  padding-bottom: ln(3)
+
+
+.cv section.level3
+  @include rule-before(none)
+  margin-top: 0
+
+.cv section h3
+  color: $body-color !important
+  font-weight: 200
+  margin-top: ln(1/2)
+  margin-bottom: 0
+  padding-top: 0
+  padding-bottom: 0
+
+.cv section.level3 p
+  margin-top: 0
+
+.cv section.level3 blockquote
+  margin-top: 0
+  color: $subject-color
