@@ -1,6 +1,12 @@
 ---
 title: Functional programmer
 html-class: index
+footer-bonus: |
+  <script>
+    addEventListener('load', function () {
+      document.getElementById('hello').href = cannot.rot13('znvygb:uryyb@zvrgrx.vb');
+    });
+  </script>
 ---
 
 
@@ -9,10 +15,3 @@ html-class: index
 Founder at [Least Fixed](http://leastfixed.com/).
 
 Say <a href="" id="hello">hello</a>.
-
-
-<script>
-addEventListener('load', function () {
-  document.getElementById('hello').href = cannot.rot13('znvygb:uryyb@zvrgrx.vb');
-});
-</script>
