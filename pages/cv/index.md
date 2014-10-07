@@ -22,7 +22,7 @@ An advocate of programming languages with static, sound and implicit type system
 
 Available for software consulting.
 
-Say <a href="" id="hello">hello</a>.
+Need quality software?  Say <a href="" id="hello">hello</a>.
 
 
 Current projects
