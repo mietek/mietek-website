@@ -1,30 +1,12 @@
-mietek-website
-==============
-
-[My](http://mietek.io/) website.
-
-Built with [cannot](https://github.com/mietek/cannot/).
-
-
-Usage
------
+[My website](http://mietek.io/)
+============
 
 Not intended for public use.
 
-Need a website?  Say hello@mietek.io
-
-
-### Installation
-
-Available as a [Bower](http://bower.io/) package.
-
-```sh
-bower install mietek-website
-make
-```
+Built with [_cannot_](http://mietek.github.io/cannot/).
 
 
 License
 -------
 
-[MIT X11](https://github.com/mietek/license/blob/master/LICENSE.md) © [Miëtek Bak](http://mietek.io/)
+Made by [Miëtek Bak](http://mietek.io/).  Published under the [MIT X11 license](https://github.com/mietek/license/blob/master/LICENSE.md).
