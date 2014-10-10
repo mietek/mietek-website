@@ -1,9 +1,15 @@
 ---
 title: CV
-page-class: cv add-section-links
+page-class: cv
 page-data:
   - key: max-section-link-level
     value: 2
+page-head: |
+  <style>
+    header a.link-cv {
+      color: #3f96f0;
+    }
+  </style>
 page-footer: |
   <script>
     addEventListener('load', function () {
@@ -20,25 +26,23 @@ An advocate of programming languages with static, sound and implicit type system
 
 13 years of experience in professional software development, including 7 years of functional programming practice with Haskell, Erlang, and OCaml.
 
-Available for software consulting.
-
-Need quality software?  Say <a href="" id="hello">hello</a>.
+Available for software consulting.  Say <a href="" id="hello">hello</a>.
 
 
 Current projects
 ----------------
 
 ### [Halcyon](http://halcyon.sh/)
-Rapid Haskell deployment
+Rapid Haskell deployment.
 
 ### [Haskell on Heroku](http://haskellonheroku.com/)
-Rapid deployment of Haskell web apps
+Rapid deployment of Haskell web apps.
 
-### [bashmenot](https://github.com/mietek/bashmenot/)
-Library of functions for safer shell scripting
+### [bashmenot](https://mietek.github.io/bashmenot/)
+Functions for safer shell scripting.
 
-### [cannot](https://github.com/mietek/cannot/)
-Microframework for building websites
+### [cannot](https://mietek.github.io/cannot/)
+Microframework for building websites.
 
 
 Experience { .exp }
