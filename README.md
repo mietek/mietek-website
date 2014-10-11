@@ -1,9 +1,9 @@
-[My website](http://mietek.io/)
-============
+_mietek-website_
+================
 
-Not intended for public use.
+[My website](http://mietek.io/).
 
-Built with [_cannot_](http://mietek.github.io/cannot/).
+Built with [_cannot_](http://cannot.mietek.io/).
 
 
 License
