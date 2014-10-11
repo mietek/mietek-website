@@ -3,8 +3,10 @@ body
   font-weight: 200
 
 
-header nav.menu-bar h1.logotype a
+nav.menu-bar h1.logotype a
   font-weight: 500
+
+header nav.menu-bar h1.logotype a
   color: $object-color
   @include frob-when-frobbed
     color: $accent-color
@@ -15,20 +17,7 @@ section h1
 section h2
   font-weight: 500
 
-section h3
-  font-weight: 500
-
-section h4
-  font-weight: 500
-
-section h5
-  font-weight: 500
-
-section h6
-  font-weight: 500
-
 footer nav.menu-bar h1.logotype a
-  font-weight: 500
   color: $subject-color
   @include frob-when-frobbed
     color: $accent-color
@@ -36,6 +25,9 @@ footer nav.menu-bar h1.logotype a
 
 .index header
   background-image: linear-gradient(to right, white 0%, rgba(white, 0.0) 100%)
+
+.index header nav.menu-bar h1.logotype a
+  color: $accent-color
 
 .index main
   padding-bottom: 0
@@ -66,27 +58,8 @@ footer nav.menu-bar h1.logotype a
   padding-bottom: ln(3)
 
 
-.cv section h3
-  color: $object-color
-  margin-top: ln(1/2)
-  margin-bottom: 0
-  padding-top: 0
-  padding-bottom: 0
-
-.cv section h3 a
-  color: $object-color
-  text-decoration: underline !important
-
-.cv section.level3
-  @include rule-before(none)
+.cv section blockquote
   margin-top: 0
 
-.cv section.level3 p
+.cv section blockquote p
   margin-top: 0
-
-.cv section.exp
-  color: $subject-color
-
-.cv section.exp em
-  color: $body-color
-  font-style: normal

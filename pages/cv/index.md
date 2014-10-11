@@ -32,58 +32,61 @@ Available for software consulting.  Say <a href="" id="hello">hello</a>.
 Current projects
 ----------------
 
-### [Halcyon](http://halcyon.sh/)
-Rapid Haskell deployment.
+-   [Halcyon](http://halcyon.sh/)\
+    Rapid Haskell deployment
 
-### [Haskell on Heroku](http://haskellonheroku.com/)
-Rapid deployment of Haskell web apps.
+-   [Haskell on Heroku](http://haskellonheroku.com/)\
+    Rapid deployment of Haskell web apps
 
-### [bashmenot](https://mietek.github.io/bashmenot/)
-Functions for safer shell scripting.
+-   [_bashmenot_](http://bashmenot.mietek.io/)\
+    Functions for safer shell scripting
 
-### [cannot](https://mietek.github.io/cannot/)
-Microframework for building websites.
+-   [_cannot_](http://cannot.mietek.io/)\
+    Not a framework
 
 
-Experience { .exp }
+Experience
 ----------
 
-### [Least Fixed](http://leastfixed.com/)
-_Founder_\
-2013–present
+-   [Least Fixed](http://leastfixed.com/)\
+    Functional software consultancy
+    
+    > 2013–present, Founder
+    
+-   Citrix
 
-### Citrix
-_Lead software engineer_\
-2012
+    > 2012, Lead software engineer
 
-### Arctic Lake
-_Systems engineer_\
-2011–2012
+-   Arctic Lake
 
-### OpenBet
-_Software developer_\
-2011
+    > 2011–2012, Systems engineer
 
-### Erlang Solutions
-_Systems engineer_\
-2008–2010
+-   OpenBet
 
-### Google Summer of Code/Haskell
-_Student_\
-2007
+    > 2011, Software developer
 
-### Cortland
-_Student programmer_\
-2002–2006
+-   Erlang Solutions
 
-### Haxial
-_Associate developer_\
-2001–2005
+    > 2008–2010, Systems engineer
+
+-   Google Summer of Code\
+    Haskell
+
+    > 2007, Student
+
+-   Cortland
+
+    > 2002–2006, Student programmer
+
+-   Haxial
+
+    > 2001–2005, Associate developer
 
 
-Education { .exp }
+Education
 ---------
 
-### University of Wrocław
-_BSc/Informatics_\
-2004–2009
+University of Wrocław\
+Informatics
+
+> 2004–2009, Bachelor of science
