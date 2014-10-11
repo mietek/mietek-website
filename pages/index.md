@@ -10,7 +10,8 @@ page-footer: |
 ---
 
 
-# Functional programmer
+Functional programmer
+=====================
 
 Founder at [Least Fixed](http://leastfixed.com/).
 
