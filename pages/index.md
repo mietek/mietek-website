@@ -15,4 +15,4 @@ Functional programmer
 
 Founder at [Least Fixed](http://leastfixed.com/).
 
-Say <a href="" id="hello">hello</a>.
+Available for software consulting.  Say <a href="" id="hello">hello</a>.

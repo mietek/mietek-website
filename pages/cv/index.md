@@ -23,8 +23,6 @@ An advocate of programming languages with static, sound and implicit type system
 
 13 years of experience in professional software development, including 7 years of functional programming practice with Haskell, Erlang, and OCaml.
 
-Available for software consulting.  Say <a href="" id="hello">hello</a>.
-
 
 Experience
 ----------
@@ -71,3 +69,8 @@ University of Wrocław\
 Informatics
 
 > 2004–2009, Bachelor of science
+
+
+---
+
+Available for software consulting.  Say <a href="" id="hello">hello</a>.

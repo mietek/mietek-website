@@ -6,6 +6,12 @@ page-head: |
       color: #3f96f0;
     }
   </style>
+page-footer: |
+  <script>
+    addEventListener('load', function () {
+      document.getElementById('hello').href = cannot.rot13('znvygb:uryyb@zvrgrx.vb');
+    });
+  </script>
 ---
 
 
@@ -23,3 +29,8 @@ Current projects
 
 -   [_cannot_](http://cannot.mietek.io/)\
     Not a web framework
+
+
+---
+
+Available for software consulting.  Say <a href="" id="hello">hello</a>.
