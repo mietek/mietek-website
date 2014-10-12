@@ -1,8 +1,5 @@
 ---
 title: Current projects
-page-data:
-  - key: max-section-link-level
-    value: 2
 page-head: |
   <style>
     header a.link-projects {
