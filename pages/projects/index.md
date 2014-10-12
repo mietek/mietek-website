@@ -19,10 +19,10 @@ Current projects
 ================
 
 -   [Halcyon](http://halcyon.sh/)\
-    Rapid Haskell deployment
+    Haskell application deployment
 
 -   [Haskell on Heroku](http://haskellonheroku.com/)\
-    Rapid deployment of Haskell web apps
+    Haskell web application deployment
 
 -   [_bashmenot_](http://bashmenot.mietek.io/)\
     Functions for safer shell scripting
