@@ -19,7 +19,7 @@ page-footer: |
 CV
 ==
 
-An advocate of programming languages with static, sound and implicit type systems.  Comfortable at all levels of the software stack, from arrows to assembly.  Interested in human interface design, graphic design, and typography.
+An advocate of programming languages with static, sound and implicit type systems.  Comfortable at all levels of the software stack—from arrows to assembly.  Interested in human interface design, graphic design, and typography.
 
 13 years of experience in professional software development, including 7 years of functional programming practice with Haskell, Erlang, and OCaml.
 
