@@ -10,9 +10,11 @@ page-footer: |
 ---
 
 
-Functional programmer
-=====================
+Functional programmer.
+======================
 
 Founder at [Least Fixed](http://leastfixed.com/).
+
+Current focus:  Haskell deployment, [Halcyon](http://halcyon.sh/), and [_Haskell on Heroku_](http://haskellonheroku.com/).
 
 Available for software consulting.  Say <a href="" id="hello">hello</a>.
