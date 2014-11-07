@@ -27,8 +27,7 @@ An advocate of programming languages with static, sound and implicit type system
 Experience
 ----------
 
--   [Least Fixed](http://leastfixed.com/)\
-    Functional software consultancy
+-   [Least Fixed](http://leastfixed.com/)—Functional software consultancy
     
     > 2013–present, Founder
     
@@ -48,8 +47,7 @@ Experience
 
     > 2008–2010, Systems engineer
 
--   Google Summer of Code\
-    Haskell
+-   Google Summer of Code—Haskell
 
     > 2007, Student
 
@@ -65,8 +63,7 @@ Experience
 Education
 ---------
 
-University of Wrocław\
-Informatics
+University of Wrocław—Informatics
 
 > 2004–2009, Bachelor of science
 
