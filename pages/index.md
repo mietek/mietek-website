@@ -17,4 +17,4 @@ Founder at [Least Fixed](http://leastfixed.com/).
 
 Current focus:  Haskell deployment, [Halcyon](http://halcyon.sh/), and [Haskell on Heroku](http://haskellonheroku.com/).
 
-Available for software consulting.  Say <a href="" id="hello">hello</a>.
+Available for software consulting.  Say <a href="" id="hello">hello</a>, or follow <a href="http://twitter.com/mietek">@mietek</a>.
