@@ -29,43 +29,42 @@ Experience
 
 -   [Least Fixed](https://leastfixed.com/)—Functional software consultancy
     
-    > 2013–present, Founder
+    > Founder, 2013–present
     
 -   Citrix
 
-    > 2012, Lead software engineer
+    > Lead software engineer, 2012
 
 -   Arctic Lake
 
-    > 2011–2012, Systems engineer
+    > Systems engineer, 2011–2012
 
 -   OpenBet
 
-    > 2011, Software developer
+    > Software developer, 2011
 
 -   Erlang Solutions
 
-    > 2008–2010, Systems engineer
+    > Systems engineer, 2008–2010
 
 -   Google Summer of Code—Haskell
 
-    > 2007, Student
+    > Student, 2007
 
 -   Cortland
 
-    > 2002–2006, Student programmer
+    > Student programmer, 2002–2006
 
 -   Haxial
 
-    > 2001–2005, Associate developer
+    > Associate developer, 2001–2005
 
 
-Education
----------
+### Education
 
 University of Wrocław—Informatics
 
-> 2004–2009, Bachelor of science
+> Bachelor of science, 2004–2009
 
 
 ---

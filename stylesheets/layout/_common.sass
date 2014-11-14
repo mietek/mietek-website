@@ -1,21 +1,22 @@
 body
-  font-family: "Helvetica Neue", Helvetica, sans-serif
-  font-weight: 200
+  font-family: "concourse-t3", sans-serif
+
+code
+  font-family: "pragmatapro", monospace
+
+.small-caps
+  font-family: "concourse-c3", sans-serif
+  font-variant: normal
+  letter-spacing: -1px
 
 
 nav.menu-bar h1.logotype a
-  font-weight: 500
+  font-weight: bold
 
 header nav.menu-bar h1.logotype a
   color: $object-color
   @include frob-when-frobbed
     color: $accent-color
-
-section h1
-  font-weight: 500
-
-section h2
-  font-weight: 500
 
 footer nav.menu-bar h1.logotype a
   color: $subject-color
