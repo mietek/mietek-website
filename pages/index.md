@@ -13,8 +13,8 @@ page-footer: |
 Functional programmer.
 ======================
 
-Founder at [Least Fixed](http://leastfixed.com/).
+Founder at [Least Fixed](https://leastfixed.com/).
 
-Current focus:  Haskell deployment, [Halcyon](http://halcyon.sh/), and [Haskell on Heroku](http://haskellonheroku.com/).
+Current focus:  Haskell deployment, [Halcyon](https://halcyon.sh/), and [Haskell on Heroku](https://haskellonheroku.com/).
 
-Available for software consulting.  Say <a href="" id="hello">hello</a>, or follow <a href="http://twitter.com/mietek">@mietek</a>.
+Available for software consulting.  Say <a href="" id="hello">hello</a>, or follow <a href="https://twitter.com/mietek">@mietek</a>.

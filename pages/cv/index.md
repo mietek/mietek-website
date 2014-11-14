@@ -27,7 +27,7 @@ An advocate of programming languages with static, sound and implicit type system
 Experience
 ----------
 
--   [Least Fixed](http://leastfixed.com/)—Functional software consultancy
+-   [Least Fixed](https://leastfixed.com/)—Functional software consultancy
     
     > 2013–present, Founder
     
@@ -70,4 +70,4 @@ University of Wrocław—Informatics
 
 ---
 
-Available for software consulting.  Say <a href="" id="hello">hello</a>, or follow <a href="http://twitter.com/mietek">@mietek</a>.
+Available for software consulting.  Say <a href="" id="hello">hello</a>, or follow <a href="https://twitter.com/mietek">@mietek</a>.

@@ -1,3 +1,15 @@
 #!/bin/sh
 
-rsync -rvz --checksum --delete --ignore-times --exclude .git out/pub/ tux:/srv/mietek/
+s3cmd sync 'out/pub/' \
+	's3://mietek.io' \
+	--acl-public \
+	--no-preserve \
+	--add-header='Content-Encoding:gzip' \
+	--exclude='*' \
+	--include='*.gz' &&
+s3cmd sync 'out/pub/' \
+	's3://mietek.io' \
+	--acl-public \
+	--no-preserve \
+	--delete-removed \
+	--exclude='*.git*'

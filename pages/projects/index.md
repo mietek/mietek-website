@@ -18,15 +18,15 @@ page-footer: |
 Current projects
 ================
 
--   [Haskell on Heroku](http://haskellonheroku.com/)—Haskell web application deployment
+-   [Haskell on Heroku](https://haskellonheroku.com/)—Haskell web application deployment
 
--   [Halcyon](http://halcyon.sh/)—Haskell application deployment
+-   [Halcyon](https://halcyon.sh/)—Haskell application deployment
 
--   [bashmenot](http://bashmenot.mietek.io/)—Functions for safer shell scripting
+-   [bashmenot](https://bashmenot.mietek.io/)—Functions for safer shell scripting
 
--   [cannot](http://cannot.mietek.io/)—Not a web framework
+-   [cannot](https://cannot.mietek.io/)—Not a web framework
 
 
 ---
 
-Available for software consulting.  Say <a href="" id="hello">hello</a>, or follow <a href="http://twitter.com/mietek">@mietek</a>.
+Available for software consulting.  Say <a href="" id="hello">hello</a>, or follow <a href="https://twitter.com/mietek">@mietek</a>.
