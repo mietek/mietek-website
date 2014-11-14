@@ -22,9 +22,9 @@ Current projects
 
 -   [Halcyon](https://halcyon.sh/)—Haskell application deployment
 
--   [bashmenot](https://bashmenot.mietek.io/)—Functions for safer shell scripting
+-   [_bashmenot_](https://bashmenot.mietek.io/)—Functions for safer shell scripting
 
--   [cannot](https://cannot.mietek.io/)—Not a web framework
+-   [_cannot_](https://cannot.mietek.io/)—Not a web framework
 
 
 ---
