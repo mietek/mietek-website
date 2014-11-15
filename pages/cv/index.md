@@ -21,7 +21,7 @@ CV
 
 An advocate of programming languages with static, sound and implicit type systems.  Comfortable at all levels of the software stack—from arrows to assembly.  Interested in human interface design, graphic design, and typography.
 
-13 years of experience in professional software development, including 7 years of functional programming practice with Haskell, Erlang, and OCaml.
+13 years of professional experience in software development, including 7 years of practice with functional programming in Haskell, Erlang, and OCaml.
 
 
 Experience
@@ -29,42 +29,42 @@ Experience
 
 -   [Least Fixed](https://leastfixed.com/)—Functional software consultancy
     
-    > Founder, 2013–present
+    > Founder (2013–present)
     
 -   Citrix
 
-    > Lead software engineer, 2012
+    > Lead software engineer (2012)
 
 -   Arctic Lake
 
-    > Systems engineer, 2011–2012
+    > Systems engineer (2011–2012)
 
 -   OpenBet
 
-    > Software developer, 2011
+    > Software developer (2011)
 
 -   Erlang Solutions
 
-    > Systems engineer, 2008–2010
+    > Systems engineer (2008–2010)
 
 -   Google Summer of Code—Haskell
 
-    > Student, 2007
+    > Student (2007)
 
 -   Cortland
 
-    > Student programmer, 2002–2006
+    > Student programmer (2002–2006)
 
 -   Haxial
 
-    > Associate developer, 2001–2005
+    > Associate developer (2001–2005)
 
 
 ### Education
 
 University of Wrocław—Informatics
 
-> Bachelor of science, 2004–2009
+> Bachelor of science (2004–2009)
 
 
 ---

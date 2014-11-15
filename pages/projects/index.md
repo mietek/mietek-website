@@ -18,9 +18,9 @@ page-footer: |
 Current projects
 ================
 
--   [Haskell on Heroku](https://haskellonheroku.com/)—Haskell web application deployment
-
 -   [Halcyon](https://halcyon.sh/)—Haskell application deployment
+
+-   [Haskell on Heroku](https://haskellonheroku.com/)—Haskell web application deployment
 
 -   [_bashmenot_](https://bashmenot.mietek.io/)—Shell function library
 
