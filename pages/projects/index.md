@@ -29,4 +29,4 @@ Current projects
 
 ---
 
-Available for software consulting.  Say <a href="" id="hello">hello</a>, or follow <a href="https://twitter.com/mietek">@mietek</a>.
+Available for consulting.  Say <a href="" id="hello">hello</a>, or follow <a href="https://twitter.com/mietek">@mietek</a>.
