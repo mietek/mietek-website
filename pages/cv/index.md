@@ -30,44 +30,35 @@ An advocate of programming languages with static, sound and implicit type system
 Experience
 ----------
 
--   [Least Fixed](https://leastfixed.com/)—Functional software consultancy
+-   **[Least Fixed](https://leastfixed.com/)**\
+    Founder (2013–present)
     
-    > Founder (2013–present)
-    
--   Citrix
+-   **Citrix**\
+    Lead software engineer (2012)
 
-    > Lead software engineer (2012)
+-   **Arctic Lake**\
+    Systems engineer (2011–2012)
 
--   Arctic Lake
+-   **OpenBet**\
+    Software developer (2011)
 
-    > Systems engineer (2011–2012)
+-   **Erlang Solutions**\
+    Systems engineer (2008–2010)
 
--   OpenBet
+-   **Google Summer of Code**—Haskell\
+    Student (2007)
 
-    > Software developer (2011)
+-   **Cortland**\
+    Student programmer (2002–2006)
 
--   Erlang Solutions
-
-    > Systems engineer (2008–2010)
-
--   Google Summer of Code—Haskell
-
-    > Student (2007)
-
--   Cortland
-
-    > Student programmer (2002–2006)
-
--   Haxial
-
-    > Associate developer (2001–2005)
+-   **Haxial**\
+    Associate developer (2001–2005)
 
 
 ### Education
 
-University of Wrocław—Informatics
-
-> Bachelor of science (2004–2009)
+**University of Wrocław**—Informatics\
+Bachelor of science (2004–2009)
 
 
 ---
