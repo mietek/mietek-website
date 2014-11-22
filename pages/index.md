@@ -1,7 +1,11 @@
 ---
 title: Functional programmer
 page-class: index
+page-schema: https://data-vocabulary.org/Person
 page-footer: |
+  <aside>
+    <p>Based in <span itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address"><span itemprop="locality">Cambridge</span>, <span itemprop="country-name">UK</span></span>.</p>
+  </aside>
   <script>
     addEventListener('load', function () {
       document.getElementById('hello').href = cannot.rot13('znvygb:uryyb@zvrgrx.vb');
@@ -10,11 +14,11 @@ page-footer: |
 ---
 
 
-Functional programmer
-=====================
+<span itemprop="title">Functional programmer</span>
+===================================================
 
 Haskell deployment, [Halcyon](https://halcyon.sh/), and [Haskell on Heroku](https://haskellonheroku.com/).
 
-Founder at [Least Fixed](https://leastfixed.com/).
+<span itemprop="role">Founder</span> at <span itemprop="affiliation">[Least Fixed](https://leastfixed.com/)</span>.
 
 Available for consulting.  Say <a href="" id="hello">hello</a>, or follow <a href="https://twitter.com/mietek">@mietek</a>.

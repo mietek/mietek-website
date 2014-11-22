@@ -8,6 +8,9 @@ page-head: |
     }
   </style>
 page-footer: |
+  <aside>
+    <p>Based in Cambridge, UK.</p>
+  </aside>
   <script>
     addEventListener('load', function () {
       document.getElementById('hello').href = cannot.rot13('znvygb:uryyb@zvrgrx.vb');
