@@ -6,6 +6,18 @@ page-head: |
     header a.link-cv {
       color: #3f96f0;
     }
+    li {
+      color: #9e9792;
+    }
+    strong {
+      color: #3d3631;
+      font-weight: normal;
+    }
+    strong a {
+      color: #3d3631;
+      font-weight: bold;
+      text-decoration: none;
+    }
   </style>
 page-footer: |
   <aside>
@@ -27,38 +39,38 @@ An advocate of programming languages with static, sound and implicit type system
 13 years of professional experience in software development, including 7 years of practice with functional programming in Haskell, Erlang, and OCaml.
 
 
-Experience
+Experience { .exp }
 ----------
 
--   **[Least Fixed](https://leastfixed.com/)**\
-    Founder (2013–present)
+-   **_[Least Fixed](https://leastfixed.com/)_**\
+    **Founder, 2013–present**
     
--   **Citrix**\
-    Lead software engineer (2012)
+-   **_Citrix_**\
+    Lead software engineer, 2012
 
--   **Arctic Lake**\
-    Systems engineer (2011–2012)
+-   **_Arctic Lake_**\
+    Systems engineer, 2011–2012
 
--   **OpenBet**\
-    Software developer (2011)
+-   **_OpenBet_**\
+    Software developer, 2011
 
--   **Erlang Solutions**\
-    Systems engineer (2008–2010)
+-   **_Erlang Solutions_**\
+    Systems engineer, 2008–2010
 
--   **Google Summer of Code**—Haskell\
-    Student (2007)
+-   **_Google Summer of Code_—Haskell**\
+    Student, 2007
 
--   **Cortland**\
-    Student programmer (2002–2006)
+-   **_Cortland_**\
+    Student programmer, 2002–2006
 
--   **Haxial**\
-    Associate developer (2001–2005)
+-   **_Haxial_**\
+    Associate developer, 2001–2005
 
 
 ### Education
 
-**University of Wrocław**—Informatics\
-Bachelor of science (2004–2009)
+-   **_University of Wrocław_—Informatics**\
+    Bachelor of science, 2004–2009
 
 
 ---
