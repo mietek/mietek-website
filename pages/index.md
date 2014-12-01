@@ -4,7 +4,7 @@ page-class: index
 page-schema: https://data-vocabulary.org/Person
 page-footer: |
   <aside>
-    <p>Based in <span itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address"><span itemprop="locality">Cambridge</span>, <span itemprop="country-name">UK</span></span>.</p>
+    <p>Based in <span itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address"><span itemprop="locality">Cambridge</span>, <span itemprop="country-name">UK</span></span>.</p>
   </aside>
   <script>
     addEventListener('load', function () {
@@ -17,7 +17,7 @@ page-footer: |
 <span itemprop="title">Functional programmer</span>
 ===================================================
 
-Haskell deployment, [Halcyon](https://halcyon.sh/), and [Haskell on Heroku](https://haskellonheroku.com/).
+Haskell deployment, [Halcyon](https://halcyon.sh/), and [Haskell on Heroku](https://haskellonheroku.com/).
 
 <span itemprop="role">Founder</span> at <span itemprop="affiliation">[Least Fixed](https://leastfixed.com/)</span>.
 

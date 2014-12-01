@@ -8,7 +8,7 @@ page-head: |
   </style>
 page-footer: |
   <aside>
-    <p>Based in Cambridge, UK.</p>
+    <p>Based in Cambridge, UK.</p>
   </aside>
   <script>
     addEventListener('load', function () {
@@ -23,7 +23,7 @@ Current projects
 
 -   [Halcyon](https://halcyon.sh/)—Haskell application deployment
 
--   [Haskell on Heroku](https://haskellonheroku.com/)—Haskell web application deployment
+-   [Haskell on Heroku](https://haskellonheroku.com/)—Haskell web application deployment
 
 -   [_bashmenot_](https://bashmenot.mietek.io/)—Shell function library
 

@@ -21,7 +21,7 @@ page-head: |
   </style>
 page-footer: |
   <aside>
-    <p>Based in Cambridge, UK.</p>
+    <p>Based in Cambridge, UK.</p>
   </aside>
   <script>
     addEventListener('load', function () {
