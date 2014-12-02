@@ -1,22 +1,16 @@
 ---
-title: CV
+title: Curriculum vitæ
 page-class: cv
+page-data:
+- key: max-back-link-level
+  value: 1
 page-head: |
   <style>
     header a.link-cv {
       color: #3f96f0;
     }
-    li {
-      color: #9e9792;
-    }
-    strong {
+    section li a {
       color: #3d3631;
-      font-weight: normal;
-    }
-    strong a {
-      color: #3d3631;
-      font-weight: bold;
-      text-decoration: none;
     }
   </style>
 page-footer: |
@@ -31,46 +25,46 @@ page-footer: |
 ---
 
 
-CV
-==
+Curriculum vitæ
+===============
 
 An advocate of programming languages with static, sound and implicit type systems.  Comfortable at all levels of the software stack—from arrows to assembly.  Interested in human interface design, graphic design, and typography.
 
 13 years of professional experience in software development, including 7 years of practice with functional programming in Haskell, Erlang, and OCaml.
 
 
-Experience { .exp }
+Experience { .no-rule-before-h2 }
 ----------
 
--   **_[Least Fixed](https://leastfixed.com/)_**\
-    **Founder, 2013–present**
+-   [**Least Fixed**](https://leastfixed.com/)\
+    _Founder, 2013–present_
     
--   **_Citrix_**\
-    Lead software engineer, 2012
+-   **Citrix**\
+    _Lead software engineer, 2012_
 
--   **_Arctic Lake_**\
-    Systems engineer, 2011–2012
+-   **Arctic Lake**\
+    _Systems engineer, 2011–2012_
 
--   **_OpenBet_**\
-    Software developer, 2011
+-   **OpenBet**\
+    _Software developer, 2011_
 
--   **_Erlang Solutions_**\
-    Systems engineer, 2008–2010
+-   **Erlang Solutions**\
+    _Systems engineer, 2008–2010_
 
--   **_Google Summer of Code_—Haskell**\
-    Student, 2007
+-   **Google Summer of Code**—Haskell\
+    _Student, 2007_
 
--   **_Cortland_**\
-    Student programmer, 2002–2006
+-   **Cortland**\
+    _Student programmer, 2002–2006_
 
--   **_Haxial_**\
-    Associate developer, 2001–2005
+-   **Haxial**\
+    _Associate developer, 2001–2005_
 
 
 ### Education
 
--   **_University of Wrocław_—Informatics**\
-    Bachelor of science, 2004–2009
+-   **University of Wrocław**—Informatics\
+    _Bachelor of science, 2004–2009_
 
 
 ---
