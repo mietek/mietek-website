@@ -9,7 +9,7 @@ page-head: |
     header a.link-cv {
       color: #3f96f0;
     }
-    section li a {
+    section.level2 > ul a {
       color: #3d3631;
     }
   </style>
@@ -28,7 +28,7 @@ page-footer: |
 Curriculum vitæ
 ===============
 
-An advocate of programming languages with static, sound and implicit type systems.  Comfortable at all levels of the software stack—from arrows to assembly.  Interested in human interface design, graphic design, and typography.
+An advocate of programming languages with static, sound and implicit type systems.  Comfortable at all levels of the software stack — from arrows to assembly.  Interested in human interface design, graphic design, and typography.
 
 13 years of professional experience in software development, including 7 years of practice with functional programming in Haskell, Erlang, and OCaml.
 
@@ -51,7 +51,7 @@ Experience { .no-rule-before-h2 }
 -   **Erlang Solutions**\
     _Systems engineer, 2008–2010_
 
--   **Google Summer of Code**—Haskell\
+-   **Google Summer of Code** — Haskell\
     _Student, 2007_
 
 -   **Cortland**\
@@ -63,7 +63,7 @@ Experience { .no-rule-before-h2 }
 
 ### Education
 
--   **University of Wrocław**—Informatics\
+-   **University of Wrocław** — Informatics\
     _Bachelor of science, 2004–2009_
 
 
