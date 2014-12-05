@@ -42,7 +42,7 @@ Projects
 
 ### Deployment
 
--   [Gitit](https://github.com/mietek/gitit/), [Haskell Language](https://github.com/mietek/hl/), [How I Start](https://github.com/mietek/howistart.org), [Try Haskell](https://github.com/mietek/tryhaskell/), [Try Haste](https://github.com/mietek/tryhplay/), [Try Idris](https://github.com/mietek/tryidris/), [Try PureScript](https://github.com/mietek/trypurescript/)\
+-   [Gitit](https://github.com/mietek/gitit/), [Haskell Language](https://github.com/mietek/hl/), [How I Start](https://github.com/mietek/howistart/), [Try Haskell](https://github.com/mietek/tryhaskell/), [Try Haste](https://github.com/mietek/tryhaste/), [Try Idris](https://github.com/mietek/tryidris/), [Try PureScript](https://github.com/mietek/trypurescript/)\
     My contributions to real-world Haskell applications.
 
 -   [_hello_](https://github.com/mietek/hello/), [_hello-happstack_](https://github.com/mietek/hello-happstack/), [_hello-mflow_](https://github.com/mietek/hello-mflow/), [_hello-miku_](https://github.com/mietek/hello-miku/), [_hello-scotty_](https://github.com/mietek/hello-scotty/), [_hello-simple_](https://github.com/mietek/hello-simple/), [_hello-snap_](https://github.com/mietek/hello-happstack/), [_hello-spock_](https://github.com/mietek/hello-spock/), [_hello-wai_](https://github.com/mietek/hello-wai/), [_hello-wheb_](https://github.com/mietek/hello-wheb/), [_hello-yesod_](https://github.com/mietek/hello-yesod/)\
