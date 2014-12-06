@@ -1,6 +1,6 @@
 ---
 title: Functional programmer
-page-class: index
+page-class: index rule-before-h1
 page-schema: https://data-vocabulary.org/Person
 page-footer: |
   <aside>
