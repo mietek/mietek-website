@@ -19,7 +19,9 @@ page-footer: |
   </aside>
   <script>
     addEventListener('load', function () {
-      document.getElementById('hello').href = cannot.rot13('znvygb:uryyb@zvrgrx.vb');
+      [].forEach.call(document.getElementsByClassName('hello'), function (hello) {
+        hello.href = cannot.rot13('znvygb:uryyb@zvrgrx.vb');
+      });
     });
   </script>
 ---
@@ -69,4 +71,10 @@ Experience { .no-rule-before-h2 }
 
 ---
 
-Available for consulting.  Say <a href="" id="hello">hello</a>, or follow <a href="https://twitter.com/mietek">@mietek</a>.
+<div class="aside-like">
+<a class="face mietek" href="https://mietek.io/"></a>
+<blockquote>_[My projects](/projects/) are published under the [MIT X11 license](/license/), and supported by my company, [Least Fixed](https://leastfixed.com/)._
+
+_Like my work?  I am available for consulting.  Say <a class="hello" href="">hello</a>, or follow <a href="https://twitter.com/mietek">@mietek</a>._
+</blockquote>
+</div>
