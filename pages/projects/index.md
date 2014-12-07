@@ -44,10 +44,10 @@ Projects
 
 ### Deployment
 
--   [Gitit](https://github.com/mietek/gitit/), [Haskell Language](https://github.com/mietek/hl/), [How I Start](https://github.com/mietek/howistart/), [Try Haskell](https://github.com/mietek/tryhaskell/), [Try Haste](https://github.com/mietek/tryhaste/), [Try Idris](https://github.com/mietek/tryidris/), [Try PureScript](https://github.com/mietek/trypurescript/)\
+-   [Gitit](https://github.com/mietek/gitit), [Haskell Language](https://github.com/mietek/hl), [How I Start](https://github.com/mietek/howistart), [Try Haskell](https://github.com/mietek/tryhaskell), [Try Haste](https://github.com/mietek/tryhaste), [Try Idris](https://github.com/mietek/tryidris), [Try PureScript](https://github.com/mietek/trypurescript)\
     My contributions to real-world Haskell applications.
 
--   [_hello_](https://github.com/mietek/hello/), [_hello-happstack_](https://github.com/mietek/hello-happstack/), [_hello-mflow_](https://github.com/mietek/hello-mflow/), [_hello-miku_](https://github.com/mietek/hello-miku/), [_hello-scotty_](https://github.com/mietek/hello-scotty/), [_hello-simple_](https://github.com/mietek/hello-simple/), [_hello-snap_](https://github.com/mietek/hello-happstack/), [_hello-spock_](https://github.com/mietek/hello-spock/), [_hello-wai_](https://github.com/mietek/hello-wai/), [_hello-wheb_](https://github.com/mietek/hello-wheb/), [_hello-yesod_](https://github.com/mietek/hello-yesod/)\
+-   [_hello_](https://github.com/mietek/hello), [_hello-happstack_](https://github.com/mietek/hello-happstack), [_hello-mflow_](https://github.com/mietek/hello-mflow), [_hello-miku_](https://github.com/mietek/hello-miku), [_hello-scotty_](https://github.com/mietek/hello-scotty), [_hello-simple_](https://github.com/mietek/hello-simple), [_hello-snap_](https://github.com/mietek/hello-happstack), [_hello-spock_](https://github.com/mietek/hello-spock), [_hello-wai_](https://github.com/mietek/hello-wai), [_hello-wheb_](https://github.com/mietek/hello-wheb), [_hello-yesod_](https://github.com/mietek/hello-yesod)\
     Simple Haskell applications.
 
 
@@ -61,34 +61,34 @@ Projects
 Microprojects
 -------------
 
--   [_ease_](https://github.com/mietek/ease/)\
+-   [_ease_](https://github.com/mietek/ease)\
     CSS-style easing in JavaScript.
 
--   [_ease-scroll_](https://github.com/mietek/ease-scroll/)\
+-   [_ease-scroll_](https://github.com/mietek/ease-scroll)\
     Smooth scrolling in the browser.
 
--   [_embed-r_](https://github.com/mietek/embed-r/)\
+-   [_embed-r_](https://github.com/mietek/embed-r)\
     Example C and Haskell programs, showing how to mesh with the R event loop.
 
--   [_haskell-so-example_](https://github.com/mietek/haskell-so-example/)\
+-   [_haskell-so-example_](https://github.com/mietek/haskell-so-example)\
     Example C program, showing how to call Haskell shared libraries.
 
--   [_heroku-buildpack-submodule-example_](https://github.com/mietek/heroku-buildpack-submodule-example/)\
+-   [_heroku-buildpack-submodule-example_](https://github.com/mietek/heroku-buildpack-submodule-example)\
     Example Heroku buildpack, showing how to reference _git_ submodules.
 
--   [_mailchimp-subscribe_](https://github.com/mietek/mailchimp-subscribe/)\
+-   [_mailchimp-subscribe_](https://github.com/mietek/mailchimp-subscribe)\
     MailChimp subscription request handler.
 
--   [_populate-setup-exe-cache_](https://github.com/mietek/populate-setup-exe-cache/)\
+-   [_populate-setup-exe-cache_](https://github.com/mietek/populate-setup-exe-cache)\
     Empty Cabal package.
 
--   [Programming a Problem-Oriented Language](https://github.com/mietek/programming-a-problem-oriented-language/)\
+-   [Programming a Problem-Oriented Language](https://github.com/mietek/programming-a-problem-oriented-language)\
     [Chuck Moore](http://colorforth.com/)’s Forth book, reformatted.
 
 
 ### Historical
 
--   [_icfp-contest-2014_](https://github.com/mietek/icfp-contest-2014/), [_icfp-contest-2013_](https://github.com/mietek/icfp-contest-2013/), [_icfp-contest-2012_](https://github.com/mietek/icfp-contest-2012/), [_icfp-contest-2011_](https://github.com/mietek/icfp-contest-2011/), [_icfp-contest-2010_](https://github.com/mietek/icfp-contest-2010/), [_icfp-contest-2009_](https://github.com/mietek/icfp-contest-2009/), _2008_, _2007_, _2006_…\
+-   [_icfp-contest-2014_](https://github.com/mietek/icfp-contest-2014), [_icfp-contest-2013_](https://github.com/mietek/icfp-contest-2013), [_icfp-contest-2012_](https://github.com/mietek/icfp-contest-2012), [_icfp-contest-2011_](https://github.com/mietek/icfp-contest-2011), [_icfp-contest-2010_](https://github.com/mietek/icfp-contest-2010), [_icfp-contest-2009_](https://github.com/mietek/icfp-contest-2009), _2008_, _2007_, _2006_…\
     Team entries for ICFP Contest.
 
 
