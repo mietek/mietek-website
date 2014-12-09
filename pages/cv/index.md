@@ -9,9 +9,6 @@ page-head: |
     header a.link-cv {
       color: #3f96f0;
     }
-    section.level2 > ul a {
-      color: #3d3631;
-    }
   </style>
 page-footer: |
   <aside>
@@ -38,35 +35,35 @@ An advocate of programming languages with static, sound and implicit type system
 Experience { .no-rule-before-h2 }
 ----------
 
--   [**Least Fixed**](https://leastfixed.com/)\
-    _Founder, 2013–present_
-    
+-   **Least Fixed**\
+    _Founder, 2013…_
+
 -   **Citrix**\
-    _Lead software engineer, 2012_
+    _Programmer, 2012_
 
 -   **Arctic Lake**\
-    _Systems engineer, 2011–2012_
+    _Programmer, 2011–2012_
 
 -   **OpenBet**\
-    _Software developer, 2011_
+    _Programmer, 2011_
 
 -   **Erlang Solutions**\
-    _Systems engineer, 2008–2010_
+    _Programmer, 2008–2010_
 
 -   **Google Summer of Code** — Haskell\
-    _Student, 2007_
+    _Programmer, 2007_
 
 -   **Cortland**\
-    _Student programmer, 2002–2006_
+    _Programmer, 2002–2006_
 
 -   **Haxial**\
-    _Associate developer, 2001–2005_
+    _Programmer, 2001–2005_
 
 
 ### Education
 
--   **University of Wrocław** — Informatics\
-    _Bachelor of science, 2004–2009_
+**University of Wrocław** — Informatics\
+_Bachelor of Science, 2004–2009_
 
 
 ---
