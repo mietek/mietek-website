@@ -50,6 +50,9 @@ Projects
 -   [_hello_](https://github.com/mietek/hello), [_hello-happstack_](https://github.com/mietek/hello-happstack), [_hello-mflow_](https://github.com/mietek/hello-mflow), [_hello-miku_](https://github.com/mietek/hello-miku), [_hello-scotty_](https://github.com/mietek/hello-scotty), [_hello-simple_](https://github.com/mietek/hello-simple), [_hello-snap_](https://github.com/mietek/hello-happstack), [_hello-spock_](https://github.com/mietek/hello-spock), [_hello-wai_](https://github.com/mietek/hello-wai), [_hello-wheb_](https://github.com/mietek/hello-wheb), [_hello-yesod_](https://github.com/mietek/hello-yesod)\
     Simple Haskell applications.
 
+-   [Instant IPython](https://github.com/mietek/instant-ipython)\
+    IPython Notebook packaged for Heroku.
+
 
 <aside>
 <a class="micro face gabriel-gonzales" href="https://twitter.com/GabrielG439/status/541309757127012352"></a>
@@ -83,7 +86,7 @@ Microprojects
     Empty Cabal package.
 
 -   [Programming a Problem-Oriented Language](https://github.com/mietek/programming-a-problem-oriented-language)\
-    [Chuck Moore](http://colorforth.com/)’s Forth book, reformatted.
+    [Chuck Moore’s](http://colorforth.com/) Forth book, reformatted.
 
 
 ### Historical
