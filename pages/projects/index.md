@@ -76,6 +76,9 @@ Microprojects
 -   [_embed-r_](https://github.com/mietek/embed-r)\
     Example C and Haskell programs, showing how to mesh with the R event loop.
 
+-   [_github-callback_](https://github.com/mietek/github-callback)\
+    GitHub authorization helper.
+
 -   [_haskell-so-example_](https://github.com/mietek/haskell-so-example)\
     Example C program, showing how to call Haskell shared libraries.
 
