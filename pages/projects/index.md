@@ -77,7 +77,7 @@ Microprojects
     GitHub authorization helper.
 
 -   [_halcyon-cloud-config_](https://github.com/mietek/halcyon-cloud-config)\
-    JavaScript _cloud-config_ generator for deploying Haskell applications with Halcyon.
+    JavaScript generator of _cloud-config_ files, using Halcyon to deploy Haskell applications.
 
 -   [_haskell-so-example_](https://github.com/mietek/haskell-so-example)\
     Example C program, showing how to call Haskell shared libraries.
