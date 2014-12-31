@@ -1,5 +1,9 @@
 ---
 title: MIT X11 license
+page-footer: |
+  <aside>
+    <p>Based in Cambridge, UK.</p>
+  </aside>
 ---
 
 
