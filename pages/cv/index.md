@@ -35,29 +35,29 @@ An advocate of programming languages with static, sound and implicit type system
 Experience { .no-rule-before-h2 }
 ----------
 
--   **Least Fixed**\
-    _Founder, 2013…_
+- **Least Fixed**\
+  _Founder, 2013…_
 
--   **Citrix**\
-    _Programmer, 2012_
+- **Citrix**\
+  _Programmer, 2012_
 
--   **Arctic Lake**\
-    _Programmer, 2011–2012_
+- **Arctic Lake**\
+  _Programmer, 2011–2012_
 
--   **OpenBet**\
-    _Programmer, 2011_
+- **OpenBet**\
+  _Programmer, 2011_
 
--   **Erlang Solutions**\
-    _Programmer, 2008–2010_
+- **Erlang Solutions**\
+  _Programmer, 2008–2010_
 
--   **Google Summer of Code** — Haskell\
-    _Programmer, 2007_
+- **Google Summer of Code** — Haskell\
+  _Programmer, 2007_
 
--   **Cortland**\
-    _Programmer, 2002–2006_
+- **Cortland**\
+  _Programmer, 2002–2006_
 
--   **Haxial**\
-    _Programmer, 2001–2005_
+- **Haxial**\
+  _Programmer, 2001–2005_
 
 
 ### Education
