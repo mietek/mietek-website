@@ -30,7 +30,7 @@ Projects
 ========
 
 - [**Halcyon**](https://halcyon.sh/)\
-  Haskell application deployment.
+  System for building and installing Haskell applications.
 
 - [**Haskell on Heroku**](https://haskellonheroku.com/)\
   Haskell web application deployment.
