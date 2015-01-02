@@ -21,6 +21,6 @@ page-footer: |
 
 Fixing Haskell deployment with [Halcyon](https://halcyon.sh/) and [Haskell on Heroku](https://haskellonheroku.com/).
 
-<span itemprop="role">Founder</span> of <span itemprop="affiliation">[Least Fixed](https://leastfixed.com/)</span>.
+<span itemprop="role">Founder</span> at <span itemprop="affiliation">[Least Fixed](https://leastfixed.com/)</span>.
 
 Available for consulting.  Say <a class="hello" href="">hello</a>, or follow <a href="https://twitter.com/mietek">@mietek</a>.
