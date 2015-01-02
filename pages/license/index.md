@@ -10,7 +10,7 @@ page-footer: |
 MIT X11 license
 ===============
 
-Copyright © 2014 [Miëtek Bak](https://mietek.io/).
+Copyright © 2014–2015 [Miëtek Bak](https://mietek.io/).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the “Software”), to deal
