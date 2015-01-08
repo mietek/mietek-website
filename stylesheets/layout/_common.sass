@@ -58,3 +58,26 @@ footer nav.menu-bar h1.logotype a
   padding-top: ln(3)
   padding-bottom: ln(3)
   margin-top: ln(2)
+
+
+.slide-widget
+  margin-bottom: ln(1)
+
+.slide-button
+  @include radio-button
+  border-radius: 512px
+  width: ln(3/2)
+  margin-right: ln(1/4)
+
+.slide-button:nth-child(5)
+  margin-right: ln(3/4)
+
+.next-button
+  @include pill-button
+  width: ln(4)
+
+video
+  width: 100%
+  height: auto
+  border: 1px rgba($gray6, 0.4 * 0.8) solid
+  box-shadow: 0 ln(1) ln(2) ln(1/6) rgba($gray6, 0.4 * 0.8)
