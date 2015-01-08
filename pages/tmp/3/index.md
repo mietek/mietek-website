@@ -11,7 +11,7 @@ page-footer: |
 =========
 
 <div class="slide-widget">
-<a class="slide-button" href="/tmp">0</a>
+<a class="slide-button" href="/tmp/">0</a>
 <a class="slide-button" href="/tmp/1/">1</a>
 <a class="slide-button" href="/tmp/2/">2</a>
 <a class="slide-button selected" href="/tmp/3/">3</a>
