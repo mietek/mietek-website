@@ -1,5 +1,9 @@
 ---
 title: /tmp/2/
+page-footer: |
+  <aside>
+    <p>Based in Cambridge, UK.</p>
+  </aside>
 ---
 
 

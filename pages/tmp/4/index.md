@@ -1,6 +1,9 @@
 ---
 title: /tmp/4/
 page-footer: |
+  <aside>
+    <p>Based in Cambridge, UK.</p>
+  </aside>
   <script>
     addEventListener('load', function () {
       [].forEach.call(document.getElementsByClassName('hello'), function (hello) {
