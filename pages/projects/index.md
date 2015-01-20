@@ -31,16 +31,13 @@ My projects
 
 
 - [**Halcyon**](https://halcyon.sh/)\
-  System for installing Haskell applications
-  
-- [**Haskell on DigitalOcean**](https://halcyon.sh/deploy/)\
-  Prototype interface for deploying Haskell applications
+  System for installing Haskell apps and development tools
 
 - [**Haskell on Heroku**](https://haskellonheroku.com/)\
-  Heroku buildpack for deploying Haskell applications
+  Heroku buildpack for deploying Haskell apps
 
 
-### Haskell applications
+### Haskell apps
 
 - [_digitalocean-callback_](https://github.com/mietek/digitalocean-callback)\
   DigitalOcean authorization helper
@@ -48,17 +45,14 @@ My projects
 - [_github-callback_](https://github.com/mietek/github-callback)\
   GitHub authorization helper
 
-- [_halcyon-cloud-config_](https://github.com/mietek/halcyon-cloud-config)\
-  JavaScript generator of _cloud-config_ files, using Halcyon to deploy Haskell applications
-
-- [Haskell Language](https://github.com/mietek/hl), [How I Start](https://github.com/mietek/howistart), [Instant Gitit](https://github.com/mietek/instant-gitit), [Instant IHaskell](https://github.com/mietek/instant-ihaskell), [Try Haskell](https://github.com/mietek/tryhaskell), [Try Haste](https://github.com/mietek/tryhaste), [Try Idris](https://github.com/mietek/tryidris), [Try PureScript](https://github.com/mietek/trypurescript)\
-  Real-world Haskell applications, packaged for easy installation
-
-- [_hello_](https://github.com/mietek/hello), [_hello-apiary_](https://github.com/mietek/hello-apiary), [_hello-happstack_](https://github.com/mietek/hello-happstack), [_hello-mflow_](https://github.com/mietek/hello-mflow), [_hello-miku_](https://github.com/mietek/hello-miku), [_hello-scotty_](https://github.com/mietek/hello-scotty), [_hello-simple_](https://github.com/mietek/hello-simple), [_hello-snap_](https://github.com/mietek/hello-happstack), [_hello-spock_](https://github.com/mietek/hello-spock), [_hello-wai_](https://github.com/mietek/hello-wai), [_hello-wheb_](https://github.com/mietek/hello-wheb), [_hello-yesod_](https://github.com/mietek/hello-yesod)\
-  Simple Haskell applications
-
 - [_mailchimp-subscribe_](https://github.com/mietek/mailchimp-subscribe)\
   MailChimp subscription request handler
+
+- [How I Start](https://github.com/mietek/howistart), [Haskell Language](https://github.com/mietek/hl), [Try Haskell](https://github.com/mietek/tryhaskell), [Try Idris](https://github.com/mietek/tryidris), [Try PureScript](https://github.com/mietek/trypurescript), [Try Haste](https://github.com/mietek/tryhaste), [Gitit](https://github.com/mietek/gitit), [IHaskell](https://github.com/mietek/ihaskell)\
+  Example Haskell apps, demonstrating advanced Halcyon features
+
+- [_hello_](https://github.com/mietek/hello), [_hello-apiary_](https://github.com/mietek/hello-apiary), [_hello-happstack_](https://github.com/mietek/hello-happstack), [_hello-mflow_](https://github.com/mietek/hello-mflow), [_hello-miku_](https://github.com/mietek/hello-miku), [_hello-scotty_](https://github.com/mietek/hello-scotty), [_hello-servant_](https://github.com/mietek/hello-scotty), [_hello-simple_](https://github.com/mietek/hello-simple), [_hello-snap_](https://github.com/mietek/hello-happstack), [_hello-spock_](https://github.com/mietek/hello-spock), [_hello-wai_](https://github.com/mietek/hello-wai), [_hello-wheb_](https://github.com/mietek/hello-wheb), [_hello-yesod_](https://github.com/mietek/hello-yesod)\
+  Example Haskell apps, comparing Haskell web frameworks
 
 
 <aside>
@@ -72,7 +66,7 @@ Other projects
 --------------
 
 - [_bashmenot_](https://bashmenot.mietek.io/)\
-  Library of shell functions
+  Library of GNU bash functions
   
 - [_bashmenot-website_](https://github.com/mietek/bashmenot-website), [_cannot-website_](https://github.com/mietek/cannot-website), [_halcyon-website_](https://github.com/mietek/halcyon-website), [_haskell-on-heroku-website_](https://github.com/mietek/haskell-on-heroku-website), [_least-fixed-website_](https://github.com/mietek/least-fixed-website), [_mietek-website_](https://github.com/mietek/mietek-website)\
   Websites built with _cannot_
@@ -89,10 +83,13 @@ Other projects
 - [_embed-r_](https://github.com/mietek/embed-r)\
   Example C and Haskell programs, showing how to mesh with the R event loop
 
+- [_halcyon-cloud-config_](https://github.com/mietek/halcyon-cloud-config)\
+  JavaScript generator of _cloud-config_ files
+
 - [_haskell-so-example_](https://github.com/mietek/haskell-so-example)\
   Example C program, showing how to call Haskell shared libraries
 
-- [_heroku-buildpack-submodule-example_](https://github.com/mietek/heroku-buildpack-submodule-example)\
+- [_heroku-buildpack-submodule-example_](https://github.com/mietek/heroku-buildpack-submodule-example), [_heroku-buildpack-submodule-example-submodule_](https://github.com/mietek/heroku-buildpack-submodule-example-submodule)\
   Example Heroku buildpack, showing how to reference _git_ submodules
 
 - [Instant IPython](https://github.com/mietek/instant-ipython)\
@@ -105,10 +102,10 @@ Other projects
   [Chuck Moore’s](http://colorforth.com/) Forth book, reformatted
 
 
-### Historical interest
+### ICFP Contest entries
 
 - [_icfp-contest-2014_](https://github.com/mietek/icfp-contest-2014), [_icfp-contest-2013_](https://github.com/mietek/icfp-contest-2013), [_icfp-contest-2012_](https://github.com/mietek/icfp-contest-2012), [_icfp-contest-2011_](https://github.com/mietek/icfp-contest-2011), [_icfp-contest-2010_](https://github.com/mietek/icfp-contest-2010), [_icfp-contest-2009_](https://github.com/mietek/icfp-contest-2009), _2008_, _2007_, _2006_…\
-  Team entries for ICFP Contest
+  The Church of the Least Fixed Point
 
 
 ---
