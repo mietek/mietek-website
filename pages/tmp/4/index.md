@@ -36,8 +36,8 @@ Say <a class="hello" href="">hello</a>, or follow <a href="https://twitter.com/m
 
 #### Software I built
 
-- [Halcyon](https://halcyon.sh/) and [Haskell on Heroku](https://haskellonheroku.com/) — installation and deployment of Haskell applications
-- [_bashmenot_](https://bashmenot.mietek.io/) — library of shell functions
+- [Halcyon](https://halcyon.sh/) and [Haskell on Heroku](https://haskellonheroku.com/) — installation and deployment of Haskell apps
+- [_bashmenot_](https://bashmenot.mietek.io/) — library of GNU bash functions
 - [_cannot_](https://cannot.mietek.io/) — not a web framework
 - [_digitalocean-callback_](https://github.com/mietek/digitalocean-callback), [_github-callback_](https://github.com/mietek/github-callback) — authentication helpers
 - [_halcyon-cloud-config_](https://github.com/mietek/halcyon-cloud-config) — service integration
