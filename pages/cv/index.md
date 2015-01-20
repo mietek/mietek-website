@@ -1,5 +1,5 @@
 ---
-title: Curriculum vitæ
+title: CV
 page-class: cv
 page-data:
 - key: max-back-link-level
@@ -24,8 +24,8 @@ page-footer: |
 ---
 
 
-Curriculum vitæ
-===============
+My CV
+=====
 
 An advocate of programming languages with static, sound and implicit type systems.  Comfortable at all levels of the software stack — from arrows to assembly.  Interested in human interface design, graphic design, and typography.
 
