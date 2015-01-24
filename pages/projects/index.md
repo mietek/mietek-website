@@ -48,7 +48,7 @@ My projects
 - [_mailchimp-subscribe_](https://github.com/mietek/mailchimp-subscribe)\
   MailChimp subscription request handler
 
-- [How I Start](https://github.com/mietek/howistart), [Haskell Language](https://github.com/mietek/hl), [Try Haskell](https://github.com/mietek/tryhaskell), [Try Idris](https://github.com/mietek/tryidris), [Try PureScript](https://github.com/mietek/trypurescript), [Try Haste](https://github.com/mietek/tryhaste), [Gitit](https://github.com/mietek/gitit), [IHaskell](https://github.com/mietek/ihaskell)\
+- [How I Start](https://github.com/mietek/howistart), [Haskell Language](https://github.com/mietek/hl), [Try Haskell](https://github.com/mietek/tryhaskell), [Try Idris](https://github.com/mietek/tryidris), [Try PureScript](https://github.com/mietek/trypurescript), [Try Haste](https://github.com/mietek/tryhaste), [Gitit](https://github.com/mietek/gitit)\
   Example Haskell apps, demonstrating advanced Halcyon features
 
 - [_hello_](https://github.com/mietek/hello), [_hello-apiary_](https://github.com/mietek/hello-apiary), [_hello-happstack_](https://github.com/mietek/hello-happstack), [_hello-mflow_](https://github.com/mietek/hello-mflow), [_hello-miku_](https://github.com/mietek/hello-miku), [_hello-scotty_](https://github.com/mietek/hello-scotty), [_hello-servant_](https://github.com/mietek/hello-scotty), [_hello-simple_](https://github.com/mietek/hello-simple), [_hello-snap_](https://github.com/mietek/hello-happstack), [_hello-spock_](https://github.com/mietek/hello-spock), [_hello-wai_](https://github.com/mietek/hello-wai), [_hello-wheb_](https://github.com/mietek/hello-wheb), [_hello-yesod_](https://github.com/mietek/hello-yesod)\
