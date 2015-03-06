@@ -24,8 +24,8 @@ page-footer: |
 ---
 
 
-My CV
-=====
+CV
+==
 
 An advocate of programming languages with static, sound and implicit type systems.  Comfortable at all levels of the software stack — from arrows to assembly.  Interested in human interface design, graphic design, and typography.
 

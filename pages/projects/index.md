@@ -26,8 +26,8 @@ page-footer: |
 ---
 
 
-My projects
-===========
+Projects
+========
 
 
 - [**Halcyon**](https://halcyon.sh/)\
