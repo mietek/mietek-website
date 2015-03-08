@@ -8,9 +8,6 @@ page-head: |
     header a.link-projects {
       color: #3f96f0;
     }
-    section.level1 > ul a {
-      color: #3d3631;
-    }
   </style>
 page-footer: |
   <aside>
@@ -30,11 +27,20 @@ Projects
 ========
 
 
+### Haskell deployment
+
 - [**Halcyon**](https://halcyon.sh/)\
   System for installing Haskell apps and development tools
 
 - [**Haskell on Heroku**](https://haskellonheroku.com/)\
   Heroku buildpack for deploying Haskell apps
+
+
+<aside>
+<a class="micro face gabriel-gonzales" href="https://twitter.com/GabrielG439/status/541309757127012352"></a>
+<blockquote>_“[Halcyon](https://halcyon.sh/) is finally out! Deploy Haskell applications on Heroku using incremental and reproducible builds._”</blockquote>
+<p>[— Gabriel Gonzalez](https://twitter.com/GabrielG439/status/541309757127012352)</p>
+</aside>
 
 
 ### Haskell apps
@@ -53,13 +59,6 @@ Projects
 
 - [_hello_](https://github.com/mietek/hello), [_hello-apiary_](https://github.com/mietek/hello-apiary), [_hello-happstack_](https://github.com/mietek/hello-happstack), [_hello-mflow_](https://github.com/mietek/hello-mflow), [_hello-miku_](https://github.com/mietek/hello-miku), [_hello-scotty_](https://github.com/mietek/hello-scotty), [_hello-servant_](https://github.com/mietek/hello-scotty), [_hello-simple_](https://github.com/mietek/hello-simple), [_hello-snap_](https://github.com/mietek/hello-happstack), [_hello-spock_](https://github.com/mietek/hello-spock), [_hello-wai_](https://github.com/mietek/hello-wai), [_hello-wheb_](https://github.com/mietek/hello-wheb), [_hello-yesod_](https://github.com/mietek/hello-yesod)\
   Example Haskell apps, comparing Haskell web frameworks
-
-
-<aside>
-<a class="micro face gabriel-gonzales" href="https://twitter.com/GabrielG439/status/541309757127012352"></a>
-<blockquote>_“[Halcyon](https://halcyon.sh/) is finally out! Deploy Haskell applications on Heroku using incremental and reproducible builds._”</blockquote>
-<p>[— Gabriel Gonzalez](https://twitter.com/GabrielG439/status/541309757127012352)</p>
-</aside>
 
 
 Other projects
