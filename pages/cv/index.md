@@ -27,42 +27,54 @@ page-footer: |
 CV
 ==
 
-An advocate of programming languages with static, sound and implicit type systems.  Comfortable at all levels of the software stack — from arrows to assembly.  Interested in human interface design, graphic design, and typography.
+Author of [Halcyon](https://halcyon.sh/) and [Haskell on Heroku](https://haskellonheroku.com/).
 
-13 years of professional experience in software development, including 7 years of practice with functional programming in Haskell, Erlang, and OCaml.
+Advocate of programming languages with static, sound, and implicit type systems.  Comfortable at all levels of the software stack — from arrows to assembly; client-side and server-side.  Designs humane user interfaces.  Interested in type theory, security, and typography.
+
+14 years of professional experience in software development, including 8 years of practice with functional programming in Haskell, Erlang, and OCaml.  Knows how not to write Fortran in any language.
+
 
 
 Experience { .no-rule-before-h2 }
 ----------
 
-- **Least Fixed**\
-  _Founder, 2013…_
+-   [**Least Fixed**](https://leastfixed.com/)\
+    _Founder, 2013–present_
 
-- **Citrix**\
-  _Programmer, 2012_
+    Selected clients:\
+    [Anchor Cloud Hosting](http://www.anchor.com.au/), [Xyratex](http://www.xyratex.com/), [Tweag I/O](http://www.tweag.io/), [Counsyl](https://www.counsyl.com/)
 
-- **Arctic Lake**\
-  _Programmer, 2011–2012_
+-   [**Google Summer of Code**](https://developers.google.com/open-source/soc/) — Haskell\
+    _Mentor, 2015–present_
 
-- **OpenBet**\
-  _Programmer, 2011_
+-   [**Citrix**](http://www.citrix.com/)\
+    _Lead software engineer, 2012_
 
-- **Erlang Solutions**\
-  _Programmer, 2008–2010_
+-   [**Arctic Lake**](http://www.arcticlake.co.uk/)\
+    _Systems engineer, 2011–2012_
 
-- **Google Summer of Code** — Haskell\
-  _Programmer, 2007_
+-   [**OpenBet**](http://www.openbet.com/)\
+    _Software developer, 2011_
 
-- **Cortland**\
-  _Programmer, 2002–2006_
+-   [**Erlang Solutions**](https://www.erlang-solutions.com/)\
+    _Systems engineer, 2008–2010_
 
-- **Haxial**\
-  _Programmer, 2001–2005_
+    Selected clients:\
+    [Mobile Interactive Group](http://www.migcan.com/), [Arctic Lake](http://www.arcticlake.co.uk/)
+
+-   [**Google Summer of Code**](https://developers.google.com/open-source/soc/) — Haskell\
+    _Student, 2007_
+
+-   [**Cortland**](http://www.cortland.pl/)\
+    _Programmer, 2002–2006_
+
+-   [**Haxial**](http://web.archive.org/web/20050323235602/http://haxialsoftware.com/)\
+    _Associate developer, 2001–2005_
 
 
 ### Education
 
-**University of Wrocław** — Informatics\
+[**University of Wrocław**](http://www.ii.uni.wroc.pl/) — Informatics\
 _Bachelor of Science, 2004–2009_
 
 
