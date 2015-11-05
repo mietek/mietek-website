@@ -31,7 +31,7 @@ Author of [Halcyon](https://halcyon.sh/) and [Haskell on Heroku](https://haskell
 
 Advocate of programming languages with static, sound, and implicit type systems.  Comfortable at all levels of the software stack — from arrows to assembly; client-side and server-side.  Designs humane user interfaces.  Interested in type theory, security, and typography.
 
-14 years of professional experience in software development, including 8 years of practice with functional programming in Haskell, Erlang, and OCaml.  Knows how not to write Fortran in any language.
+14 years of professional experience in software development, including 9 years of practice with functional programming in Haskell, Erlang, and OCaml.
 
 
 
@@ -42,10 +42,10 @@ Experience { .no-rule-before-h2 }
     _Founder, 2013–present_
 
     Selected clients:\
-    [Anchor Cloud Hosting](http://www.anchor.com.au/), [Xyratex](http://www.xyratex.com/), [Tweag I/O](http://www.tweag.io/), [Counsyl](https://www.counsyl.com/)
+    [University of Cambridge](https://www.cam.ac.uk), [Anchor Cloud Hosting](http://www.anchor.com.au/), [Xyratex](http://web.archive.org/web/20140625073800/http://www.xyratex.com/), [Tweag I/O](http://www.tweag.io/), [Counsyl](https://www.counsyl.com/)
 
 -   [**Google Summer of Code**](https://developers.google.com/open-source/soc/) — Haskell\
-    _Mentor, 2015–present_
+    _Mentor, 2015_
 
 -   [**Citrix**](http://www.citrix.com/)\
     _Lead software engineer, 2012_
